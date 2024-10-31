@@ -47,8 +47,15 @@ Tableau: For visualizing the analysis results.
 
 **Key Findings**
 HYBE stock remains highly sensitive to the activities surrounding its core talent, BTS.
+
+
 The inherent volatility has led HYBE to proactively diversify its revenue streams of technological products and platform solutions.
+
+
 HYBE is slowly but steadily trying to gain a foothold around the world by engaging in multiple acquisitions and mergers and has started with Ithaca holdings. 
+
+
+
 
 
 
